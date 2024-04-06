@@ -1,1 +1,1 @@
-# @vipen/target-js
+# @vipen/target-js-dependencies

@@ -1,0 +1,18 @@
+{
+  "name": "@vipen/target-js-dependencies",
+  "version": "0.0.0",
+  "description": "Tools needed to build javascript targets.",
+  "main": "index.mjs",
+  "author": "Anio Software <info@anio.software>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipen-org/target-js-dependencies.git"
+  },
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-terser": "^0.4.4",
+    "rollup": "^4.13.1",
+    "rollup-plugin-dts": "^6.1.0"
+  }
+}

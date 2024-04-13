@@ -10,9 +10,9 @@
     "url": "git+https://github.com/vipen-org/target-js-dependencies.git"
   },
   "dependencies": {
-    "@rollup/plugin-node-resolve": "^15.2.3",
-    "@rollup/plugin-terser": "^0.4.4",
-    "rollup": "^4.14.2",
-    "rollup-plugin-dts": "^6.1.0"
+    "@rollup/plugin-node-resolve": "15.2.3",
+    "@rollup/plugin-terser": "0.4.4",
+    "rollup": "4.14.2",
+    "rollup-plugin-dts": "6.1.0"
   }
 }

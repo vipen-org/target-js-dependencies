@@ -1,7 +1,7 @@
 {
   "name": "@vipen/target-js-dependencies",
   "version": "1.0.0",
-  "description": "Tools needed to build javascript targets.",
+  "description": "Dependencies needed to build javascript targets.",
   "main": "index.mjs",
   "author": "Anio Software <info@anio.software>",
   "license": "MIT",
